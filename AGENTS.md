@@ -13,9 +13,9 @@ Finish and visually QA the Physigro Physiotherapy website for Brianna Short in G
 - Keep this site completely separate from CareerValue.
 
 ## Expected image mapping
-- `bri-speaking.webp`: homepage hero + About Bri
-- `general-physio.webp`: general physiotherapy
-- `paediatrics.webp`: paediatric physiotherapy
+- `bri-speaking.avif`: homepage hero + About Bri
+- `general-physio.avif`: general physiotherapy
+- `paediatrics.avif`: paediatric physiotherapy
 - `pelvic-health.webp`: women's pelvic health
 - `physigro-logo.webp`: header/branding
 
